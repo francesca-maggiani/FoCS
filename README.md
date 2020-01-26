@@ -1,6 +1,6 @@
 # Progetto Foundations of Computer Science
 Questo repository contiene il progetto richiesto per accedere all'esame orale dell'insegnamento Foundations of Computer Science a.a. 
-2019/2020 svolto da Maggiani Francesca (matricola 861437) e Zanotti Giuditta (matricola).
+2019/2020 svolto da Maggiani Francesca (matricola 861437) e Zanotti Giuditta (matricola 852492).
 
 Il file principale è progetto_FoCS_Maggiani_Zanotti.ipynb che contiene tutto il codice relativo ai primi 12 punti e ai 4 punti extra per 
 gruppi da due persone.
